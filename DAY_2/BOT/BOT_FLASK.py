@@ -7,7 +7,7 @@ import json
 app = Flask(__name__)
 
 
-headers = {'Content-type':'application/json', 'Authorization':'Bearer NmE5MTE5YzctYWRmYy00NThiLWJkOTEtNzcyYzQ1YTk0NzI2ZjJmYzY5MDUtYzE0_PF84_1eb65fdf-9643-417f-9974-ad72cae0e10f'}
+headers = {'Content-type':'application/json', 'Authorization':'Bearer ....................................................'}
 
 @app.route('/reply', methods=['GET', 'POST'])
 def reply():
